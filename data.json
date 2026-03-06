@@ -4,8 +4,8 @@
     "feedbacks":    { "label": "Feedbacks",   "value": 5, "suffix": "+", "sub": "avaliações" },
     "availability": {
       "_comment": "Status options: 'available' (verde), 'away' (amarelo), 'unavailable' (vermelho)",
-      "status": "away",
-      "text": "Ausente, responderei mais tarde."
+      "status": "available",
+      "text": "Disponível para novos projetos."
     }
   },
   "servers": [
