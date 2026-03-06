@@ -14,7 +14,7 @@
       "description": "O Discord faz parte do dia a dia de muitas pessoas. Por que não aproveitar essa oportunidade? Adquira já seu servidor ou bot personalizado e potencialize sua comunidade!",
       "status": "active",
       "inviteUrl": "https://discord.gg/n5cqUMKGbA",
-      "iconUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478789721202102385/image.png?ex=69a9adc0&is=69a85c40&hm=180db3e15c87cc700677d90abb42084b7c56a5ec2f6a534851f230de46c3b388&=&format=webp&quality=lossless",
+      "iconUrl": "./assets/img/dishopping-logo.png",
       "iconFallback": "🛒",
       "bannerUrl": null,
       "bannerGradient": "linear-gradient(135deg,#2a0d52 0%,#4a1a8a 45%,#7c3aed 80%,#9d5cf5 100%)",
@@ -36,9 +36,9 @@
       "description": "Comunidade para entusiastas por tecnologia que buscam aprender, colaborar e crescer juntos na área de TI.",
       "status": "active",
       "inviteUrl": "https://discord.gg/N6J46j8k85",
-      "iconUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478785753843634196/a_7d8c3ff78630720582b74c0ec92d9af0.gif?ex=69a9aa0e&is=69a8588e&hm=1c1bb2558e35b95848c99032909779b3a2fe54d84c7161babcdfdf86dda0174a&=",
+      "iconUrl": "./assets/img/devworld-logo.gif",
       "iconFallback": "💻",
-      "bannerUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478785925080289512/032c7853f0a0df8951ea284f0c6a4fea.png?ex=69a9aa37&is=69a858b7&hm=6ee45e50ab3fc1645c74ae45b975406959cfe37d43785b936eb6ef6d8da0391e&=&format=webp&quality=lossless",
+      "bannerUrl": "./assets/img/banner-devworld.png",
       "bannerGradient": "#0a0a0a",
       "labels": [
         { "type": "consulting", "text": "Consultoria" },
@@ -59,9 +59,9 @@
       "description": "Este servidor integra a comunidade oficial de Mikethelink. Aqui são divulgados avisos importantes, incluindo notificações sobre transmissões ao vivo, atualizações e demais comunicados relacionados ao criador.",
       "status": "inactive",
       "inviteUrl": "https://discord.gg/EZWkfZxYRT",
-      "iconUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478785231208190136/image.png?ex=69a9a991&is=69a85811&hm=f0435ff5861a38f659f8d1e4311c28b7a6eaf867535f9d9764d4965399b91e3e&=&format=webp&quality=lossless&width=788&height=788",
+      "iconUrl": "./assets/img/mikhael.png",
       "iconFallback": "M",
-      "bannerUrl": "https://yt3.googleusercontent.com/ehv1UlkWdMGGmI73fAdbv3SSmEscBNbLfUUNAuAeCtXeSIJ7nghregGva6WnAlJmo0hPVky72A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "bannerUrl": "./assets/img/mikethelink-banner.jpg",
       "bannerGradient": "#0a0a0a",
       "labels": [
         { "type": "consulting", "text": "Consultoria" }
@@ -81,9 +81,9 @@
   "description": "Servidor dedicado à comunidade do Casal de Nerd, canal brasileiro conhecido por suas séries de gameplay, principalmente Minecraft, desafios entre o casal, vídeos de reação e conteúdos de entretenimento com humor característico da dupla.",
   "status": "active",
   "inviteUrl": "https://discord.gg/Wjk64CEN4Y",
-  "iconUrl": "https://media.discordapp.net/attachments/1249731916597432473/1479128173177471066/d51445347502958d78991da9ca46526a.png?ex=69aae8f5&is=69a99775&hm=f406bd7fe6a970ebd3f9083693b4174e4a0d9987e76195757313658b78e18a9a&=&format=webp&quality=lossless",
+  "iconUrl": "./assets/img/casal-de-nerd.png",
   "iconFallback": "C",
-  "bannerUrl": "https://yt3.googleusercontent.com/8PHfbMIt9By3zASOBBP7uGPRYrMW-RUaIEOqMflCWunPGndQGoeqColIshSvZE-yIcqRdi7My7A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+  "bannerUrl": "./assets/img/casal-de-nerd-banner.jpg",
   "bannerGradient": "#0a0a0a",
   "labels": [
     { "type": "consulting", "text": "Consultoria" }
@@ -103,7 +103,7 @@
     {
       "username": "3nderxp",
       "handle": "@3nderxp",
-      "avatarUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478792179785797783/image.png?ex=69a9b00a&is=69a85e8a&hm=219401f7157f558a2bfc7ea355c51494c26366da8bb827b7aa78ce66525e86db&=&format=webp&quality=lossless&width=684&height=684",
+      "avatarUrl": "./assets/img/adrian.png",
       "avatarFallback": null,
       "avatarColor": null,
       "rating": 5,
@@ -113,7 +113,7 @@
     {
       "username": "Samuel Barbera",
       "handle": "@samuelbarbera",
-      "avatarUrl": "https://images-ext-1.discordapp.net/external/kWvvSNV45tbccmtcZQ6Hp1IEegDHai4PUwebogpZOZc/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/319099107396288515/6be843bc07b183d1ccb0a20ca5ee5bf8.png?format=webp&quality=lossless",
+      "avatarUrl": "./assets/img/samuelbarbera.png",
       "avatarFallback": "S",
       "avatarColor": "linear-gradient(135deg,#1a6b3b,#3ba55d)",
       "rating": 5,
@@ -123,7 +123,7 @@
     {
       "username": "Mikhael",
       "handle": "@_mikhael",
-      "avatarUrl": "https://media.discordapp.net/attachments/1249731916597432473/1478792180113080486/image.png?ex=69ab018a&is=69a9b00a&hm=cc09021ec067e83c21cb68bb635bc0a6a5302c3ca4d8c10564577acba553f238&=&format=webp&quality=lossless",
+      "avatarUrl": "./assets/img/mikhael-pessoa.png",
       "avatarFallback": "m",
       "avatarColor": "linear-gradient(135deg,#6b1a1a,#ed4245)",
       "rating": 5,
@@ -133,7 +133,7 @@
     {
       "username": "Felipe Sena",
       "handle": "@felipessena",
-      "avatarUrl": "https://media.discordapp.net/attachments/1249731916597432473/1479228324214734878/image.png?ex=69ab463b&is=69a9f4bb&hm=21e42bc4f5712aab3a2b930f771b7e00bf4d9165c4cceb5e5d655459eac868a4&=&format=webp&quality=lossless&width=788&height=788",
+      "avatarUrl": "./assets/img/felipesena.png",
       "avatarFallback": "F",
       "avatarColor": "linear-gradient(135deg,#1a4a6b,#5865f2)",
       "rating": 5,
@@ -143,7 +143,7 @@
     {
       "username": "Caynnan",
       "handle": "@eubagu",
-      "avatarUrl": "https://media.discordapp.net/attachments/1249731916597432473/1479230235957526698/image.png?ex=69ab4803&is=69a9f683&hm=a797f5f394391d1633bcc2754548c363ca88d9e2416ea65ae181ab4d956a9aee&=&format=webp&quality=lossless",
+      "avatarUrl": "./assets/img/caynnan.jpg",
       "avatarFallback": "C",
       "avatarColor": "linear-gradient(135deg,#5a3a00,#f59e0b)",
       "rating": 5,
